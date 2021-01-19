@@ -23,6 +23,12 @@ Array
 
 * микроконтрольная #4
 ![light-test-4](exams/img/light-test-4.jpg)
+
+* микроконтрольная #5
+![light-test-5](exams/img/light-test-5.jpg)
+
+* микроконтрольная #6
+![light-test-6](exams/img/light-test-6.jpg)
 ---
 
 ***[lectures, presentations and info about labs](http://tlg.wtf/sPNPs)***
